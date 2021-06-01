@@ -7,8 +7,10 @@ I'm A Software Engineer 💻
 I'm passionate about software development
 
 <div>
-  <a href="https://github.com/messiasjunio">
+  <div>
+    [link](https://github.com/trending){:target="_blank"}
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=messiasjunio&show_icons=true&theme=dracula&hide=stars&include_all_commits=true&count_private=true"/>
+  </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiasjunio&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
