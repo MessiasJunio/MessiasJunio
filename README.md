@@ -21,6 +21,7 @@ I'm passionate about software development
   <img align="center" alt="junio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="junio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="junio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="messias-yoda" src="https://cdn.discordapp.com/emojis/557624255664095244.gif?v=1">
 </div>
 
 ##
