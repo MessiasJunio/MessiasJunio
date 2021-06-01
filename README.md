@@ -1,4 +1,6 @@
-# Hey, my name is Messias Junio 👋
+# Hey 👋
+
+My name is Messias Junio
 
 I'm passionate about software development 💻
 
